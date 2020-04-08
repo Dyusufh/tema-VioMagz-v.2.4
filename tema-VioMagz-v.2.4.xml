@@ -2,22 +2,6 @@
 <!DOCTYPE html>
 <html b:css='false' b:responsive='true' b:version='2' class='v2' expr:dir='data:blog.languageDirection' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
 <head>
-<script async='async' src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({
-          google_ad_client: "ca-pub-6329434282591438",
-          enable_page_level_ads: true
-     });
-</script>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async='async' src='https://www.googletagmanager.com/gtag/js?id=UA-140407911-1'></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-140407911-1');
-</script>
 <meta content='A13096BE91E2A40756E3AE5F231DEBC8' name='msvalidate.01'/>
 <meta content='width=device-width, initial-scale=1' name='viewport'/>
 <b:include data='blog' name='all-head-content'/>
